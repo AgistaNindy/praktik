@@ -1,7 +1,7 @@
 RESUME MATERI Version Control and Branch Management (Git)
 3 poin penting yang saya pelajari adalah:
 - pengenalan tentang Git dan cara penginstalan Git, beserta aplikasi lain yang digunakan (Vscode & Figma)
-  ~ Vscode akan digunakan bersama dengan Git di dalam Github
-  ~ Figma digunakan untuk membuat desain dari aplikasi
+- cara untuk melakukan setting up and push Git
+- cara melakukan dan menangani Branch dan Conflic
 - cara untuk melakukan setting up and push Git
 - cara melakukan dan menangani Branch dan Conflic
