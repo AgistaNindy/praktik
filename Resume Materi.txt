@@ -3,3 +3,5 @@ RESUME MATERI Version Control and Branch Management (Git)
 - pengenalan tentang Git dan cara penginstalan Git, beserta aplikasi lain yang digunakan (Vscode & Figma)
 - cara untuk melakukan setting up and push Git
 - cara melakukan dan menangani Branch dan Conflic
+  ~melakukan praktikum
+  ~menjawab dan mengerjakan soal pilihan ganda
